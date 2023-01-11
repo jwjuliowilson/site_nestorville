@@ -63,6 +63,7 @@ section .container{
 
 section {
     padding: 24px 0;
+    background-color: #ecf0f1;
 }
 
 section h2 {
